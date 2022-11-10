@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Asgardpuper.github.io/hw-5-test",
+  "homepage": "https://Asgardpuper.github.io/hw-5-test/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /hw-5-test/"
